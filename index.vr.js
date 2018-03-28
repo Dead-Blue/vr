@@ -26,7 +26,7 @@ export default class WelcomeToVR extends React.Component {
           }}>
           Van Gogh
         </Text> */}
-        <View style={{
+        {/* <View style={{
           flex: 1,
           flexDirection: 'column',
           width: 2,
@@ -50,7 +50,7 @@ export default class WelcomeToVR extends React.Component {
           <Text style={{fontSize: 0.2, textAlign: 'center'}}>Blue</Text>
         </View>
 
-      </View>
+      </View> */}
       </View>
     );
   }
